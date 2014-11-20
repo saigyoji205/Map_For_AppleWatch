@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Apple_Watch Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Apple_Watch.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>5A4823721A1E2C9D00D547C7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>5AACCC821A1E29300004F09D</key>
 		<dict>
 			<key>primary</key>
